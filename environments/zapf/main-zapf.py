@@ -53,9 +53,9 @@ Zur Identifizierung geeigeter Dokumente werden aus den Dokumenten sowie aus der 
 
 ## Beispiel-Fragen
              
-* Wo sieht die ZaPF Probleme bei der Umsetzung von Frauenrechten an Hochschulen?"
-* Was sollten Studierende tun, die sich wegen Krankheit von einer Prüfung abmelden müssen?"
-* Nenne alle relevanten Dokumente zu NFDI und Forschungsdatenmanagement und sortiere sie nach Datum. Fasse die Kernaussagen der jeweiligen Dokumente kurz zusammen."
+* Wo sieht die ZaPF Probleme bei der Umsetzung von Frauenrechten an Hochschulen?
+* Was sollten Studierende tun, die sich wegen Krankheit von einer Prüfung abmelden müssen?
+* Nenne alle relevanten Dokumente zu NFDI und Forschungsdatenmanagement und sortiere sie nach Datum. Fasse die Kernaussagen der jeweiligen Dokumente kurz zusammen.
              """)
     
 def make_clickable(url):
